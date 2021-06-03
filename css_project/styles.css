@@ -1,0 +1,19 @@
+h1 {
+    background-color: #d4d7f7;
+    color: #63473e;
+    font-family: "Papyrus";
+
+}
+h3{
+    color: #6b5f5b;
+    font-family: monospace;
+}
+li{
+    background-color: #e8e9f7;
+}
+img{
+    background-color: #e2ccac;
+}
+p {
+    font-family: cursive;
+}
