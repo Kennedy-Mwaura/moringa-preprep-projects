@@ -1,0 +1,21 @@
+
+* {
+    text-align: center
+}
+img {
+    height:150px;
+
+}
+h3{
+    color: red;
+}
+h1 {
+    color: #0907a7;
+    font-family: Helvetica, sans-serif;
+
+}
+p {
+    background-color: #fefefe;
+    border: 1px solid black;
+    padding: 10px;
+}
