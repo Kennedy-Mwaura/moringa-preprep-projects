@@ -1,0 +1,29 @@
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+  div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #66035f;
+    background-clip: content-box;
+    padding: 20px;
+    border: 10px inset grey;
+    color: #04f240;
+  }
+  
+  h1 {
+    font: italic bold 2em 'Open Sans', serif;
+  }
+  
+  img {
+    height: 200px;
+    width: 300px;
+  }
+  
+  p {
+    font-size: 30px;
+    font-style: italic;
+    font-family: fantasy;
+  }
